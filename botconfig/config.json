@@ -1,0 +1,6 @@
+{
+  "token": "Token",
+  "prefix": ".",
+
+  "check_all_channels_Interval_in_seconds": 10
+}
